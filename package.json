@@ -1,0 +1,32 @@
+{
+  "name": "ethereum-libraries-direct-crowdsale",
+  "version": "3.0.0",
+  "description": "Direct crowdsale library used by crowdsale contracts",
+  "keywords": [
+    "ethereum",
+    "token",
+    "erc20",
+    "crowdsale",
+    "modular"
+  ],
+  "homepage": "https://github.com/Modular-Network/ethereum-libraries",
+  "bugs": "https://github.com/Modular-Network/ethereum-libraries/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Modular Inc",
+    "email": "contact@modular.network",
+    "url": "https://modular.network"
+  },
+  "scripts": {
+    "test": "bash run_test.sh"
+  },
+  "dependencies": {
+    "ethereum-libraries-basic-math": "1.2.5",
+    "ethereum-libraries-token": "1.3.3"
+  },
+  "devDependencies": {
+    "ganache-cli": "6.1.0",
+    "solidity-coverage": "0.4.14",
+    "truffle": "4.1.5"
+  }
+}
