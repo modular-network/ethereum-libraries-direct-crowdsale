@@ -1,6 +1,6 @@
 {
   "name": "ethereum-libraries-direct-crowdsale",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Direct crowdsale library used by crowdsale contracts",
   "keywords": [
     "ethereum",
